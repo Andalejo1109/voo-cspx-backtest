@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="960" height="520" fill="#0B1220"/>
+<text x="220" y="36" fill="#E8EEF7" font-size="20" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700">$10.000 invertidos · valor final a 10 años</text>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<line x1="220.0" y1="60" x2="220.0" y2="480" stroke="#243049"/><text x="220.0" y="502" fill="#9AA8BD" font-size="12" text-anchor="middle">0x</text>
+<line x1="369.5" y1="60" x2="369.5" y2="480" stroke="#243049"/><text x="369.5" y="502" fill="#9AA8BD" font-size="12" text-anchor="middle">2x</text>
+<line x1="518.9" y1="60" x2="518.9" y2="480" stroke="#243049"/><text x="518.9" y="502" fill="#9AA8BD" font-size="12" text-anchor="middle">4x</text>
+<line x1="668.4" y1="60" x2="668.4" y2="480" stroke="#243049"/><text x="668.4" y="502" fill="#9AA8BD" font-size="12" text-anchor="middle">6x</text>
+<line x1="817.9" y1="60" x2="817.9" y2="480" stroke="#243049"/><text x="817.9" y="502" fill="#9AA8BD" font-size="12" text-anchor="middle">8x</text>
+<rect x="220" y="73.3" width="268.8" height="43.4" fill="#4C6A99" rx="3"/><text x="210" y="103.7" fill="#E8EEF7" font-size="13" text-anchor="end">VOO precio</text><text x="496.8" y="103.7" fill="#E8EEF7" font-size="13">3.60x</text>
+<rect x="220" y="143.3" width="299.0" height="43.4" fill="#A7C4FF" rx="3"/><text x="210" y="173.7" fill="#E8EEF7" font-size="13" text-anchor="end">VOO 30% WH</text><text x="527.0" y="173.7" fill="#E8EEF7" font-size="13">4.00x</text>
+<rect x="220" y="213.3" width="315.7" height="43.4" fill="#5B8DEF" rx="3"/><text x="210" y="243.7" fill="#E8EEF7" font-size="13" text-anchor="end">VOO 0% tax</text><text x="543.7" y="243.7" fill="#E8EEF7" font-size="13">4.22x</text>
+<rect x="220" y="283.3" width="304.3" height="43.4" fill="#2EC4B6" rx="3"/><text x="210" y="313.7" fill="#E8EEF7" font-size="13" text-anchor="end">CSPX acc</text><text x="532.3" y="313.7" fill="#E8EEF7" font-size="13">4.07x</text>
+<rect x="220" y="353.3" width="426.1" height="43.4" fill="#E8D48B" rx="3"/><text x="210" y="383.7" fill="#E8EEF7" font-size="13" text-anchor="end">Port. rebalance</text><text x="654.1" y="383.7" fill="#E8EEF7" font-size="13">5.70x</text>
+<rect x="220" y="423.3" width="540.4" height="43.4" fill="#F4B942" rx="3"/><text x="210" y="453.7" fill="#E8EEF7" font-size="13" text-anchor="end">Port. buy and hold</text><text x="768.4" y="453.7" fill="#E8EEF7" font-size="13">7.23x</text>
+</g>
+</svg>
