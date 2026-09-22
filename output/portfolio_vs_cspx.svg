@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<rect width="960" height="540" fill="#0B1220"/>
+<rect x="70" y="70" width="850" height="420" fill="#121A2B"/>
+<text x="70" y="28" fill="#E8EEF7" font-size="20" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">Portafolio growth vs CSPX - mismos 10 anos</text>
+<text x="70" y="50" fill="#9AA8BD" font-size="13" font-family="DejaVu Sans,Arial,sans-serif">El wrapper acc/dist es de segundo orden frente al motor</text>
+<line x1="70" y1="490.0" x2="920" y2="490.0" stroke="#243049"/>
+<text x="62" y="494.0" fill="#9AA8BD" font-size="12" text-anchor="end">0.8x</text>
+<line x1="70" y1="406.0" x2="920" y2="406.0" stroke="#243049"/>
+<text x="62" y="410.0" fill="#9AA8BD" font-size="12" text-anchor="end">2.3x</text>
+<line x1="70" y1="322.0" x2="920" y2="322.0" stroke="#243049"/>
+<text x="62" y="326.0" fill="#9AA8BD" font-size="12" text-anchor="end">3.8x</text>
+<line x1="70" y1="238.0" x2="920" y2="238.0" stroke="#243049"/>
+<text x="62" y="242.0" fill="#9AA8BD" font-size="12" text-anchor="end">5.2x</text>
+<line x1="70" y1="154.0" x2="920" y2="154.0" stroke="#243049"/>
+<text x="62" y="158.0" fill="#9AA8BD" font-size="12" text-anchor="end">6.7x</text>
+<line x1="70" y1="70.0" x2="920" y2="70.0" stroke="#243049"/>
+<text x="62" y="74.0" fill="#9AA8BD" font-size="12" text-anchor="end">8.2x</text>
+<text x="92" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2017</text>
+<text x="177" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2018</text>
+<text x="262" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2019</text>
+<text x="347" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2020</text>
+<text x="432" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2021</text>
+<text x="517" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2022</text>
+<text x="602" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2023</text>
+<text x="687" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2024</text>
+<text x="772" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2025</text>
+<text x="857" y="522" fill="#9AA8BD" font-size="12" text-anchor="middle">2026</text>
+<polyline fill="none" stroke="#2EC4B6" stroke-width="2.4" points="70.0,478.0 91.4,475.5 112.4,472.2 133.5,470.4 155.0,467.7 176.4,462.5 197.3,464.1 218.5,460.8 239.9,455.6 261.3,466.5 282.3,457.4 303.4,454.2 324.9,452.6 346.3,445.5 367.5,461.4 388.6,448.8 410.0,440.0 431.5,429.6 452.4,422.3 473.6,413.0 495.0,411.1 516.4,398.6 537.4,403.4 558.5,426.3 580.0,429.3 601.4,424.2 622.3,416.4 643.5,405.5 664.9,408.8 686.3,394.4 707.5,380.3 728.7,372.4 750.1,364.9 771.5,358.8 792.5,369.7 813.6,350.1 835.0,335.8 856.5,328.0 877.4,341.3 898.6,309.2 920.0,304.4"/>
+<text x="700" y="82" fill="#2EC4B6" font-size="12">CSPX acc 4.07x</text>
+<polyline fill="none" stroke="#E8D48B" stroke-width="2.4" points="70.0,478.5 91.4,477.0 112.4,472.1 133.5,469.9 155.0,464.5 176.4,459.5 197.3,457.4 218.5,458.7 239.9,453.4 261.3,463.1 282.3,454.5 303.4,451.4 324.9,450.7 346.3,440.4 367.5,458.0 388.6,442.7 410.0,430.5 431.5,413.9 452.4,406.1 473.6,395.0 495.0,397.4 516.4,381.6 537.4,387.1 558.5,416.4 580.0,423.9 601.4,414.1 622.3,402.6 643.5,389.6 664.9,392.5 686.3,377.8 707.5,353.1 728.7,340.2 750.1,333.1 771.5,332.6 792.5,335.7 813.6,310.2 835.0,287.5 856.5,277.2 877.4,281.5 898.6,208.2 920.0,211.8"/>
+<text x="700" y="102" fill="#E8D48B" font-size="12">Port. rebalance 5.70x</text>
+<polyline fill="none" stroke="#F4B942" stroke-width="2.4" points="70.0,478.5 91.4,477.0 112.4,472.1 133.5,469.9 155.0,464.5 176.4,459.5 197.3,457.4 218.5,458.7 239.9,453.4 261.3,463.1 282.3,454.5 303.4,451.4 324.9,450.5 346.3,440.1 367.5,457.4 388.6,441.1 410.0,428.6 431.5,410.9 452.4,402.2 473.6,390.5 495.0,392.7 516.4,373.5 537.4,383.0 558.5,415.1 580.0,422.8 601.4,413.3 622.3,396.9 643.5,381.1 664.9,385.1 686.3,366.0 707.5,334.1 728.7,314.8 750.1,312.5 771.5,311.0 792.5,322.5 813.6,285.1 835.0,255.2 856.5,238.7 877.4,237.6 898.6,106.3 920.0,125.0"/>
+<text x="700" y="122" fill="#F4B942" font-size="12">Port. buy-hold 7.23x</text>
+</svg>
